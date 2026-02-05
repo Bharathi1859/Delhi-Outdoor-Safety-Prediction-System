@@ -1,0 +1,8 @@
+requests
+datetime
+pandas
+numpy
+matplotlib
+plotly
+nbformat 
+ipykern
